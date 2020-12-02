@@ -88,8 +88,16 @@ public class Fraction {
 	//
 	public int compareTo(Object o) 
 	{
-		//Method TODO
-		return 0;
+		Fraction frac = (Fraction)o;
+		if(this.Num > frac.Num) {
+			return 2;
+		}
+		else if(this.Num < frac.Num){
+			return -1;
+		}
+		else {
+			return 0;
+		}
 	}
 	
 	public double realValue() 
