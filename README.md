@@ -5,5 +5,5 @@ CSCD260_Assignment3Fraction_Team-1
 - Maria Avalos Torres
 - Arron Colby
 - Josiah Crang
--Madison Reese
+- Madison Reese
 ##Shortcomings
