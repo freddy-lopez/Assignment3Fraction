@@ -6,4 +6,3 @@ CSCD260_Assignment3Fraction_Team-1
 - Arron Colby
 - Josiah Crang
 - Madison Reese
-##Shortcomings
