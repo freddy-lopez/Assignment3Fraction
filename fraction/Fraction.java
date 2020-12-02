@@ -10,7 +10,7 @@ public class Fraction {
 	{
 		if(D == 0)
 		{
-			throw new IllegalArgumentException();
+			throw new IllegalArgumentException("Cannot perform math operations on a null fraction object!");
 		}
 		Num = N;
 		Den = D;
@@ -94,8 +94,7 @@ public class Fraction {
 	
 	public double realValue() 
 	{
-		//Method TODO
-		return 0;
+		return (double)Num/Den;
 	}
 	
 	
@@ -118,12 +117,16 @@ public class Fraction {
 
 	//Done
 	public Fraction add(Fraction fraction) {
+		if(fraction == null)
+			throw new IllegalArgumentException("Cannot perform math operations on a null fraction object!");
 		int firstAdd = (this.Num*fraction.Den)+(this.Den*fraction.Num);
 		int secondAdd = this.Den*fraction.Den;
 		return fractionGCD(firstAdd, secondAdd);
 	}
 	//Done
 	public Fraction multiply(Fraction fraction) {
+		if(fraction == null)
+			throw new IllegalArgumentException("Cannot perform math operations on a null fraction object!");
 		int firstMultiply = this.Num*fraction.Num;
 		int secondMultiply = this.Den*fraction.Den;
 		return fractionGCD(firstMultiply, secondMultiply);
