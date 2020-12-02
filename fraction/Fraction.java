@@ -10,7 +10,7 @@ public class Fraction {
 	{
 		if(D == 0)
 		{
-			throw new IllegalArgumentException("Cannot perform math operations on a null fraction object!");
+			throw new IllegalArgumentException("The denominator with the value of 0 is not permitted");
 		}
 		Num = N;
 		Den = D;
