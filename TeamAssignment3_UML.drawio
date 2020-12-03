@@ -1,47 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:47:19.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="k_W84toceS5QG6T-qql6" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T19:18:33.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m8fA2Z8rmgfKYGyDuDYQ" version="13.10.6" type="github">
   <diagram id="aAHjLig78V07RbaskgGH" name="Page-1">
-    <mxGraphModel dx="1471" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-1" value="IllegalArgumentJupiter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="350" width="160" height="90" as="geometry" />
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-1" value="IllegalArgumentJupiter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="130" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-1">
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="KRAgtLMMdu43R1wHjASJ-1" vertex="1">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-3" value="testFraction(): void&#xa;testAdd(): void&#xa;testMultiply(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-1">
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-3" value="testFraction(): void&#xa;testAdd(): void&#xa;testMultiply(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KRAgtLMMdu43R1wHjASJ-1" vertex="1">
           <mxGeometry y="34" width="160" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-4" value="FractionTestJupiter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="160" height="210" as="geometry" />
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-4" value="FractionTestJupiter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="30" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-5" value="Fraction: test" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-4">
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-5" value="Fraction: test" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KRAgtLMMdu43R1wHjASJ-4" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-4">
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="KRAgtLMMdu43R1wHjASJ-4" vertex="1">
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-7" value="+ setUp(): void&#xa;+ testNumAndDen(): void&#xa;+testNegatives(): void&#xa;+testProperReduction(): void&#xa;+ testEquals(): void&#xa;+ testCompareTo(): void&#xa;+ testAdd(): void&#xa;+ testMultiplication(): void&#xa;+ testToString(): void&#xa;+ testRealNum(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-4">
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-7" value="+ setUp(): void&#xa;+ testNumAndDen(): void&#xa;+testNegatives(): void&#xa;+testProperReduction(): void&#xa;+ testEquals(): void&#xa;+ testCompareTo(): void&#xa;+ testAdd(): void&#xa;+ testMultiplication(): void&#xa;+ testToString(): void&#xa;+ testRealNum(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KRAgtLMMdu43R1wHjASJ-4" vertex="1">
           <mxGeometry y="60" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-8" value="Fraction" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="160" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-9" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-8">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-8">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-11" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KRAgtLMMdu43R1wHjASJ-8">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="KRAgtLMMdu43R1wHjASJ-12" value="" style="endArrow=classic;html=1;exitX=0.563;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.55;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KRAgtLMMdu43R1wHjASJ-7" target="KRAgtLMMdu43R1wHjASJ-8">
+        <mxCell id="KRAgtLMMdu43R1wHjASJ-12" value="" style="endArrow=classic;html=1;exitX=0.563;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KRAgtLMMdu43R1wHjASJ-7" target="aZ3zuhOU70P9h-nhmkqa-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="520" as="sourcePoint" />
-            <mxPoint x="455" y="470" as="targetPoint" />
+            <mxPoint x="428" y="448.538" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aZ3zuhOU70P9h-nhmkqa-1" value="&lt;&lt;Java Class&gt;&gt;&#xa;Fraction" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="aZ3zuhOU70P9h-nhmkqa-2" value="- Num: int&#xa;- Den: int&#xa;- Value: double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aZ3zuhOU70P9h-nhmkqa-1">
+          <mxGeometry y="40" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aZ3zuhOU70P9h-nhmkqa-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="aZ3zuhOU70P9h-nhmkqa-1">
+          <mxGeometry y="90" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="aZ3zuhOU70P9h-nhmkqa-4" value="+ Fraction(int, int)&#xa;- reduction(): void&#xa;+ GCF(int, int): int&#xa;+ getNum(): int&#xa;+ getDen(): int&#xa;+ equals(Object): boolean&#xa;+ compareTo(Object): int&#xa;+ realValue(): double&#xa;+ GCD(int, int): Fraction&#xa;+ fractionGCD(int, int): Fraction&#xa;+ add(Fraction): Fraction&#xa;+ multiply(Fraction): Fraction&#xa;+ toString(): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aZ3zuhOU70P9h-nhmkqa-1">
+          <mxGeometry y="98" width="270" height="192" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
